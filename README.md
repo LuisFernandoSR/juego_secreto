@@ -36,3 +36,4 @@ Este proyecto fue desarrollado utilizando las tecnologías fundamentales del des
 6.  **¡Felicidades!** Al adivinar el número, el juego te mostrará un mensaje de victoria y el total de intentos que te tomó.
 
 ¡Mucha suerte!
+  
